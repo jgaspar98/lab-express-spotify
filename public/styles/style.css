@@ -1,0 +1,28 @@
+#home{
+    background-image: url('https://wallpaperaccess.com/full/633529.jpg');
+    height:100vh;
+    background-size: contain;
+}
+
+#home-form {
+    text-align: center;
+    height: 2rem;
+    width: 23rem;
+    padding: 5rem;
+    background-color: white;
+    opacity: 0.5;
+    position: absolute;
+    left: 40%;
+    top: 46%;
+}
+
+.btn-primary{
+    border-color: #FA6863 !important;
+    background-color: #FA6863 !important;
+    color: white;
+}
+
+.card-img-top{
+    height: 30vh;
+    object-fit: cover;
+}
